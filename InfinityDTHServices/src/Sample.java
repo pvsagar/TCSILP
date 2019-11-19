@@ -4,4 +4,9 @@ public class Sample {
 	//another 
 	//third
 	//fourth
+	public static void main(String[] args)
+	{
+		//somthing
+	}
+	
 }
