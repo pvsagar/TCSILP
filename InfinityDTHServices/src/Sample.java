@@ -4,4 +4,12 @@ public class Sample {
 	//jgfctdtrcys
 	//sdfsdfzsdxdfxbx
 	//kjjhjhhbhjm
+
+
+	public static void main(String[] args)
+	{
+		//somthing
+	}
+	
+
 }
