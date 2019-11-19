@@ -1,4 +1,4 @@
 
 public class Sample {
-	//hi this is Yuriy
+	//hi this is Yuriy master
 }
