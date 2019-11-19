@@ -4,9 +4,9 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>channels</title>
+<title>Insert title here</title>
 </head>
 <body>
-<h1>this is channels page</h1>
+
 </body>
 </html>
